@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="67px" viewBox="0 0 80 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Cryptonomex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="cryptonomex-v-2" sketch:type="MSArtboardGroup" transform="translate(-425.000000, -216.000000)" stroke-linecap="round" stroke-width="4.8" stroke-linejoin="round">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(391.000000, 219.000000)">
+                <g id="logo-icon" transform="translate(36.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M59.2,51.8259363 C47.4057143,63.6718646 28.24,63.6718646 16.4457143,51.8259363 C4.65142857,39.980008 4.65142857,20.7303745 16.4457143,8.88444622 C28.24,-2.96148207 47.4057143,-2.96148207 59.2,8.88444622" id="Shape" stroke="#78ACB8"></path>
+                    <path d="M0.5,55.295082 L32.7131148,25.1236534 L46.4836066,36.252459 L75.5,12.0163934" id="Shape-Copy" stroke="#00A9E0"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

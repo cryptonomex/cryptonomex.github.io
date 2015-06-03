@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>512</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CNX-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="512" sketch:type="MSArtboardGroup">
+            <g id="icon-web" sketch:type="MSLayerGroup" transform="translate(82.000000, 111.000000)">
+                <rect id="Rectangle-path" fill="#ACD7F7" sketch:type="MSShapeGroup" x="0" y="0.484647303" width="348.878819" height="19.3858921"></rect>
+                <rect id="Rectangle-path" fill="#FBD764" sketch:type="MSShapeGroup" x="0" y="87.7211618" width="348.878819" height="87.2365145"></rect>
+                <rect id="Rectangle-path" fill="#ACD7F7" sketch:type="MSShapeGroup" x="19.3888889" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <rect id="Rectangle-path" fill="#ACD7F7" sketch:type="MSShapeGroup" x="130.875" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <rect id="Rectangle-path" fill="#ACD7F7" sketch:type="MSShapeGroup" x="242.361111" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <rect id="Rectangle-path" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" x="0" y="0.484647303" width="348.878819" height="290.788382"></rect>
+                <path d="M348.757639,19 L0,19" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M0,87 L348.757639,87" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M348.757639,174 L0,174" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-path" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" x="19.3888889" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <rect id="Rectangle-path" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" x="130.875" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <rect id="Rectangle-path" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" x="242.361111" y="194.343568" width="87.25" height="38.7717842"></rect>
+                <path d="M19.3888889,67 L329.611111,67" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M126.027778,38 L222.972222,38" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M145.416667,48 L203.583333,48" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M19.3888889,242 L87.25,242" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M19.3888889,252 L106.638889,252" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M130.875,242 L218.125,242" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M130.875,252 L174.5,252" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M184.194444,252 L203.583333,252" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M242.361111,242 L329.611111,242" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M242.361111,252 L290.833333,252" id="Shape" stroke="#92A9B9" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,127 @@
+/* Custom Stylesheet */
+/**
+ * 
+ * 
+ */
+
+
+/* Custom colors   */
+
+.bg-blue-grey {
+  background: #78ACB8;
+}
+
+.blue-grey-text {
+  color: #78ACB8;
+}
+
+.blue-text-ci {
+  color: #1998D1;
+}
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+}
+
+.parallax-container {
+  background-size: cover;
+}
+
+
+
+h1, h4, h5 {
+  font-weight: 100;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+h1 {
+    color: #00A9E0;
+}
+
+h1.index {
+text-shadow: -1px 1px 1px rgba(0,0,0,0.4);
+}
+
+h5.index {
+text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
+}
+
+
+@media (max-width: 784px) {
+    
+    h1 {
+        font-size: 2.4em;
+    }
+
+
+}
+
+/* Frontpage  */
+
+#index-banner {
+  padding: 20px 40px;
+}
+
+.intro {
+  padding:  120px 40px;
+}
+
+
+
+.newsletter {
+  padding-top: 120px;
+  max-height: 320px;
+}
+
+
+
+
+
+.services {
+  padding:  120px 20px ;
+}
+
+.icon-block {
+  border: 0px solid #333;
+}
+
+.icon-float {
+  border: 0px solid #333;
+  float: left;
+  margin-top: 0px;
+  margin-left: -48px;
+  }
+
+
+.icon-block h5 {
+  border: 0px solid #333;
+  vertical-align:middle;
+}
+
+
+
+
+.top-nav li, .side-nav li{
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="143px" height="113px" viewBox="0 0 143 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Cryptonomex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="cryptonomex-v-2" sketch:type="MSArtboardGroup" transform="translate(-392.000000, -216.000000)">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(391.000000, 219.000000)">
+                <g id="logo-copy-+-Type-something" transform="translate(0.000000, 82.950820)" font-size="27.6" font-family="Netto OT" sketch:type="MSTextLayer">
+                    <g id="logo-copy" font-weight="normal" fill="#78ACB8">
+                        <g id="Group" transform="translate(0.186480, 0.158896)">
+                            <text id="crypto">
+                                <tspan x="0" y="19" fill="#1998D1">crypto</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Type-something" font-weight="bold" fill="#1998D1">
+                        <tspan x="67.8" y="19">nomex</tspan>
+                    </text>
+                </g>
+                <path d="M95.2,51.8259363 C83.4057143,63.6718646 64.24,63.6718646 52.4457143,51.8259363 C40.6514286,39.980008 40.6514286,20.7303745 52.4457143,8.88444622 C64.24,-2.96148207 83.4057143,-2.96148207 95.2,8.88444622" id="Shape" stroke="#78ACB8" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M36.5,55.295082 L68.7131148,25.1236534 L82.4836066,36.252459 L111.5,12.0163934" id="Shape-Copy" stroke="#00A9E0" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
