@@ -1,2 +1,1 @@
-# Vidio
-A responsive jekyll theme using [Materializecss](http://materializecss.com/) framework
+# Cryptonomex Coroporate Site
