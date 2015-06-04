@@ -1,1 +1,1 @@
-# Cryptonomex Coroporate Site
+# Cryptonomex coroporate Site
