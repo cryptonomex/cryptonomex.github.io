@@ -5,6 +5,11 @@
  */
 
 
+
+
+
+
+
 /* Custom colors   */
 
 .bg-blue-grey {
@@ -20,16 +25,18 @@
 }
 
 
-body, html {
-  margin: 0;
-  padding: 0;
-}
 
-body {
-  width: 100%;
-  height: 100%;
-  font-size: 16px;
-}
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-size: 16px;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+      
 
 .parallax-container {
   background-size: cover;
@@ -116,10 +123,9 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 }
 
 
-
-
-
-
+#textarea-contact {
+  min-height: 400px;
+}
 
 
 

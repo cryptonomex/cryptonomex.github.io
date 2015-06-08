@@ -3,16 +3,33 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<div style="height: 67vh;">
-<center>
-<div style="margin-top: 120px;"></div>
-<form method="POST" action="//formspree.io/contact@cryptonomex.com">
-<input type="email" name="_replyto" placeholder="Your email" />
-<input type="text" name="name" placeholder="Your name" />
-<textarea class="materialize-textarea" name="message" rows="30" placeholder="Your message"></textarea>
-<input type="text" name="_gotcha" style="display:none" />
-<button class="btn waves-effect waves-light white lighten-1 blue-text-ci" type="submit">Send</button>
-</form>
 
-</center>
-</div>
+<div style="padding: 100px 0; " class="row ">
+  
+     <div class="col s12">
+       <form  method="POST" action="//formspree.io/contact@cryptonomex.com" >
+         <div class="row">
+         <div class="input-field col s12">
+           <input  type="email" name="_replyto" length="10"  class="blue-grey-text">
+           <label for="input_text">Your email</label>
+         </div>
+       </div>
+       <div class="row">
+         <div class="input-field col s12">
+           <input  type="text" name="name" length="10" class="blue-grey-text">
+           <label for="input_text blue-grey-text">Your name</label>
+         </div>
+       </div>
+       <div class="row">
+         <div class="input-field col s12">
+           <textarea  class="materialize-textarea" name="message" ></textarea>
+           <label for="textarea1">Your message</label>
+         </div>
+       </div>
+       <input type="text" name="_gotcha" style="display:none" /> 
+       <button class="btn waves-effect waves-light white lighten-1 blue-text-ci" type="submit">Send</button>
+       
+     </form>
+     </div>
+   </div>
+   
