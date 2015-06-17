@@ -1,4 +1,6 @@
-title: Cryptonomex
+name: Cryptonomex
+description: Custom blockchain consulting and development.
+url: https://cryptonomex.com/
 
 gems:
     - jekyll-redirect-from
