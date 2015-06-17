@@ -6,29 +6,44 @@ permalink: /contact/
 
 <div style="padding: 100px 0; " class="row ">
 
-     <div class="col s12">
-       <form  method="POST" action="//formspree.io/contact@cryptonomex.com" >
+    <div class="col s12">
+
+       <form method="POST" action="//formspree.io/contact@cryptonomex.com" >
+
          <div class="row">
          <div class="input-field col s12">
-           <input  type="email" name="_replyto"   class="blue-grey-text">
-           <label for="input_text">Your email</label>
+           <input type="email" name="_replyto" class="blue-grey-text">
+           <label for="input_text">Your email address</label>
          </div>
        </div>
+
        <div class="row">
          <div class="input-field col s12">
-           <input  type="text" name="name"  class="blue-grey-text">
+           <input type="text" name="name" class="blue-grey-text">
            <label for="input_text blue-grey-text">Your name</label>
          </div>
        </div>
+
        <div class="row">
          <div class="input-field col s12">
-           <textarea  class="materialize-textarea" name="message" ></textarea>
+           <input type="text" name="_subject" class="blue-grey-text">
+           <label for="input_text blue-grey-text">Your message subject</label>
+         </div>
+       </div>
+
+       <div class="row">
+         <div class="input-field col s12">
+           <textarea class="materialize-textarea" name="message" ></textarea>
            <label for="textarea1">Your message</label>
          </div>
        </div>
+
        <input type="text" name="_gotcha" style="display:none" />
+
        <button class="btn waves-effect waves-light white lighten-1 blue-text-ci" type="submit">Send</button>
 
      </form>
-     </div>
-   </div>
+
+    </div>
+
+</div>
