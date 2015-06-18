@@ -66,9 +66,10 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 /* Frontpage  */
 
 #index-banner {
-  padding: 20px 40px;
+  padding: 40px 40px;
   background: url('../images/bg-top.jpg');
   background-size: cover;
+
 }
 
 .intro {
@@ -82,10 +83,14 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
   max-height: 360px;
   background: url('../images/bg-medium.jpg');
   background-size: cover;
+  margin: 0;
+
 }
 
 
-
+.section-top {
+  padding: 0;
+}
 
 
 .services {
@@ -110,6 +115,10 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 }
 
 
+nav {
+  z-index: 9999;
+  display: none;
+}
 
 
 .top-nav li, .side-nav li{
