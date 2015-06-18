@@ -1,13 +1,4 @@
 /* Custom Stylesheet */
-/**
- * 
- * 
- */
-
-
-
-
-
 
 
 /* Custom colors   */
@@ -76,6 +67,8 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 
 #index-banner {
   padding: 20px 40px;
+  background: url('../images/bg-top.jpg');
+  background-size: cover;
 }
 
 .intro {
@@ -85,8 +78,10 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 
 
 .newsletter {
-  padding-top: 120px;
-  max-height: 320px;
+  padding-top: 80px;
+  max-height: 360px;
+  background: url('../images/bg-medium.jpg');
+  background-size: cover;
 }
 
 
@@ -128,6 +123,19 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 }
 
 
+.page {
+  text-align: justify;
+  padding-top: 20px;
+}
 
 
 
+ul li {
+  list-style: square;
+  margin: 12px 0 12px 24px;
+}
+
+footer ul li {
+  list-style: none;
+  margin: 0;
+}
