@@ -6,7 +6,7 @@ permalink: /jobs/
 
 #### Software Developer Intern Wanted
 
-Cryptonomex Inc. is seeing a Software Developer Intern to join our company. This is a great opportunity to gain knowledge in advanced C++ and web application development. 
+Cryptonomex Inc. is seeking a Software Developer Intern to join our company. This is a great opportunity to gain knowledge in advanced C++ and web application development. 
 
 Cryptonomex Inc. is an independent blockchain development company founded by the core developers of the BitShares blockchain. Our mission is to facilitate the growth and adoption of blockchain technology.
 
