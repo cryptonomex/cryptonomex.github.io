@@ -27,7 +27,7 @@
   main {
     flex: 1 0 auto;
   }
-      
+
 
 .parallax-container {
   background-size: cover;
@@ -55,7 +55,7 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 
 
 @media (max-width: 784px) {
-    
+
     h1 {
         font-size: 2.4em;
     }
@@ -67,7 +67,7 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 
 #index-banner {
   padding: 40px 40px;
-  background: url('../images/bg-top.jpg');
+  background: url('../images/header-bg.jpg');
   background-size: cover;
 
 }
@@ -81,7 +81,7 @@ text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
 .newsletter {
   padding-top: 80px;
   max-height: 360px;
-  background: url('../images/bg-medium.jpg');
+  background: url('../images/header-bg.jpg');
   background-size: cover;
   margin: 0;
 
