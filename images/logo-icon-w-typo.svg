@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="110px" height="123px" viewBox="0 0 110 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy + CRYPTONOMEX</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-1">
+            <stop stop-color="#145C9E" offset="0%"></stop>
+            <stop stop-color="#2A324B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="43.6567922%" x2="76.4011466%" y2="73.7251355%" id="linearGradient-2">
+            <stop stop-color="#B86204" offset="0%"></stop>
+            <stop stop-color="#F59C3B" offset="43.0803571%"></stop>
+            <stop stop-color="#F9A03E" offset="53.4437947%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-3">
+            <stop stop-color="#F9A03E" offset="0%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Social" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="cnx_logo_typo" sketch:type="MSArtboardGroup" transform="translate(-200.000000, -155.000000)">
+            <g id="logo-icon" sketch:type="MSLayerGroup" transform="translate(124.000000, 155.000000)">
+                <g id="Group-Copy-+-CRYPTONOMEX" transform="translate(72.056738, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group-Copy">
+                        <path d="M19.2558237,108.679658 L32.7996933,86.8922599 L39.1430247,97.5286273 L25.5117183,119.240541 L19.2558237,108.679658 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                        <path d="M28.4373741,-2.49287906 L51.5819614,9.01110468 L51.1130517,111.448705 L28.4373741,100.205326 L28.4373741,-2.49287906 Z" id="Rectangle-6" fill="#145C9E" transform="translate(40.009668, 54.477913) rotate(32.000000) translate(-40.009668, -54.477913) "></path>
+                        <path d="M50.701866,30.6562205 L74.0409756,42.7239837 L74.0409756,118.245137 L50.896143,133.109503 L50.701866,30.6562205 Z" id="Rectangle-6-Copy-2" fill="#145C9E" transform="translate(62.371421, 81.882862) rotate(32.000000) translate(-62.371421, -81.882862) "></path>
+                        <path d="M79.4317508,76.5990011 L92.9756204,54.8116032 L99.3189517,65.4479707 L85.7750821,87.1495914 L79.4317508,76.5990011 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                        <path d="M80.7957716,66.6967071 L103.805653,78.8660091 L103.805653,115.224829 L80.6610655,130.088526 L80.7957716,66.6967071 Z" id="Rectangle-6-Copy" fill="url(#linearGradient-3)" transform="translate(92.233359, 98.392617) rotate(32.000000) translate(-92.233359, -98.392617) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
