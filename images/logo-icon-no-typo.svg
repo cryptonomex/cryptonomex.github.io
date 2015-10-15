@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="632px" height="713px" viewBox="0 0 632 713" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="43.6567922%" x2="76.4011466%" y2="73.7251355%" id="linearGradient-1">
+            <stop stop-color="#B86204" offset="0%"></stop>
+            <stop stop-color="#F59C3B" offset="43.0803571%"></stop>
+            <stop stop-color="#F9A03E" offset="53.4437947%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-18.0418847%" y1="35.8520953%" x2="100%" y2="80.1751822%" id="linearGradient-2">
+            <stop stop-color="#141B31" offset="0%"></stop>
+            <stop stop-color="#155490" offset="39.9653221%"></stop>
+            <stop stop-color="#155A9A" offset="49.6671716%"></stop>
+            <stop stop-color="#141B30" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-3">
+            <stop stop-color="#F9A03E" offset="0%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="CNX-Logo/gr/CNX-logo-icon-final-bl-o" sketch:type="MSArtboardGroup" transform="translate(-194.000000, -126.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(164.000000, 126.000000)">
+                <path d="M462.277075,447.75 L542.999998,316.5 L579.777075,385.25 L499.777075,510.25 L462.277075,447.75 Z" id="Path-10-Copy" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M113,634 L190.5,509 L230.5,571.5 L150.5,696.5 L113,634 Z" id="Path-10" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+                <path d="M166.442691,-14.5633516 L301.442691,52.4940339 L298.972548,650.032747 L166.442691,584.070415 L166.442691,-14.5633516 Z" id="Rectangle-6" fill="#145C9E" sketch:type="MSShapeGroup" transform="translate(233.942691, 317.734698) rotate(32.000000) translate(-233.942691, -317.734698) "></path>
+                <path d="M470.915382,392.668542 L605.915382,462.641377 L605.915382,674.579038 L470.915382,761.220388 L470.915382,392.668542 Z" id="Rectangle-6-Copy" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" transform="translate(538.415382, 576.944465) rotate(32.000000) translate(-538.415382, -576.944465) "></path>
+                <path d="M298.641242,177.916653 L433.641242,247.889488 L433.641242,692.894223 L298.641242,779.535573 L298.641242,177.916653 Z" id="Rectangle-6-Copy-2" fill="#145C9E" sketch:type="MSShapeGroup" transform="translate(366.141242, 478.726113) rotate(32.000000) translate(-366.141242, -478.726113) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
