@@ -45,13 +45,6 @@ h1 {
     color: #145C9E;
 }
 
-h1.index {
-text-shadow: -1px 1px 1px rgba(0,0,0,0.4);
-}
-
-h5.index {
-text-shadow: -1px 1px 1px rgba(0,0,0,0.2);
-}
 
 
 @media (max-width: 784px) {
