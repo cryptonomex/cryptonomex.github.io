@@ -23,6 +23,9 @@ a:hover {
   color: #F9A03F;
 }
 
+.orange {
+  color: #F9A03F;
+}
 
   body {
     display: flex;
@@ -150,5 +153,7 @@ footer ul li {
 }
 
 footer.page-footer {
-  background-color: #2A324B;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: #2A324B;
 }
