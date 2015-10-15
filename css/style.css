@@ -4,15 +4,15 @@
 /* Custom colors   */
 
 .bg-blue-grey {
-  background: #78ACB8;
+  background: #2A324B;
 }
 
 .blue-grey-text {
-  color: #78ACB8;
+  color: #2A324B;
 }
 
 .blue-text-ci {
-  color: #1998D1;
+  color: #145C9E;
 }
 
 
@@ -42,7 +42,7 @@ h1, h4, h5 {
 }
 
 h1 {
-    color: #00A9E0;
+    color: #145C9E;
 }
 
 h1.index {
