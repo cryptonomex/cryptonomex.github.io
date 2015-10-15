@@ -15,6 +15,13 @@
   color: #145C9E;
 }
 
+a {
+  color: #145C9E;
+}
+
+a:hover {
+  color: #F9A03F;
+}
 
 
   body {
