@@ -148,3 +148,7 @@ footer ul li {
   list-style: none;
   margin: 0;
 }
+
+footer.page-footer {
+  background-color: #2A324B;
+}
