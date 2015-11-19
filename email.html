@@ -5,13 +5,13 @@
 
 html,body {
   font-family: 'Roboto', sans-serif;
-  font-size: 13px;
-  color: #145C9E;
+  font-size: 12px;
+  color: #2A324B;
   font-weight: 300;
 }
 
 #mail-wrapper {
-  max-width: 400px;
+  max-width: 320px;
 }
 
 .inner-content {
@@ -20,14 +20,34 @@ html,body {
   padding: 20px 10px;
 }
 
+
+h2 {
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+strong {
+  font-weight: 700;
+}
+
 a {
-  color: #F9A03F;
+  color: #2A324B;
   text-decoration: none;
   font-weight: 400;
+  border-bottom:  1px dotted #F9A03F;
 }
 
 a:hover {
   color: #F9A03F;
+}
+
+a.social {
+  border: none;
+}
+
+a.social img {
+  width: 18px;
 }
 
 hr {
@@ -42,25 +62,27 @@ hr {
 <div id="mail-wrapper">
 <img src="https://cryptonomex.com/media/email/cnx-logo-mail-l.png" />
 <div class="inner-content">
-<p>
+<p style="margin-top:0px;">
 <strong>Cass</strong> / Creative <br>
 <a href="mailto:cass@cryptonomex.com">cass@cryptonomex.com</a>
 </p>
 <p>
-<strong>CRYPTONOMEX, INC.</strong><br>
+<h2>CRYPTONOMEX, INC.</h2>
 2020 Kraft Dr Suite 3040<br>
 Blacksburg, VA 24060<br>
 </p>
 <a href="https://www.cryptonomex.com">www.cryptonomex.com</a>
+
 </div>
-<p><h4>Social connect</h4>
-<a href="#"><img src="https://cryptonomex.com/media/email/linkedin.png"></a>
-<a href="#"><img src="https://cryptonomex.com/media/email/github.png"></a>
-<a href="#"><img src="https://cryptonomex.com/media/email/twitter.png"></a>
-<a href="#"><img src="https://cryptonomex.com/media/email/facebook.png"></a>
-<a href="#"><img src="https://cryptonomex.com/media/email/googleplus.png"></a>
+<p style="padding: 2px 10px;">
+<a class="social" href="#"><img src="https://cryptonomex.com/media/email/linkedin.png"></a>
+<a class="social" href="#"><img src="https://cryptonomex.com/media/email/github.png"></a>
+<a class="social" href="#"><img src="https://cryptonomex.com/media/email/twitter.png"></a>
+<a class="social" href="#"><img src="https://cryptonomex.com/media/email/facebook.png"></a>
+<a class="social" href="#"><img src="https://cryptonomex.com/media/email/googleplus.png"></a>
+
 </p>
-<hr>
+
 <small>
   This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s).
   Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited.
